@@ -18,6 +18,14 @@ npm install
 npm run build sponsorship-prospectus.md
 ```
 
+## Compression
+
+To compress PDFs file size under 10MB:
+
+```
+gs   -sDEVICE=pdfwrite   -dCompatibilityLevel=1.4   -dPDFSETTINGS=/printer   -dNOPAUSE   -dQUIET   -dBATCH   -sOutputFile=./sponsorship-prospectus-en.pdf   ./sponsorship-prospectus.pdf
+```
+
 ## License
 - Contents (Such as text and images) are licensed under CC BY 4.0 
 - Code and template are licensed under MIT License
