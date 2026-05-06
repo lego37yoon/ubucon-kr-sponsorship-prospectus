@@ -74,7 +74,7 @@ paginate: true
 
 - **행사명:** UbuCon Korea X MiniDebConf Korea 2026
 - **날짜:** 2026년 8월 29일
-- **장소:** 한국마이크로소프트(더케이트윈타워 A동 13층) 예정
+- **장소:** 한국마이크로소프트(케이트윈타워 A동 13층) 예정
 - **규모:** 약 150명 이상 참가자 규모 (발표자 및 행사 관계자 포함)
 - **주최:** 우분투한국커뮤니티, Debian Korea
 - **입장권**
@@ -115,8 +115,8 @@ Ubuntu Japan, Ubuntu Taiwan, Ubuntu Malaysia, Ubuntu Indonesia, Debian Japan, Ub
 </div>
 
 ## 행사장
-**한국마이크로소프트(더케이트윈타워 A동 13층)**
-행사가 열릴 장소인 한국마이크로소프트는, 광화문역 근처에 있는 더케이트윈타워 A동 13층에 위치해 있으며. 총 110명의 인원을 수용 가능한 회의실 및 등록 데스크, 참가자간 네트워킹 공간, 부스 운영, 케이터링도 가능한 라운지 공간도 구비되어 있습니다. 또한 회의실에는 자동 파티션이 있어, 키노트 진행시에는 모두 개방하여 하나의 회의실로 활용하고, 이후에는 파티션을 설치하여 강연과 워크샵 프로그램을 동시에 운영하는 등 유연하게 활용할 수 있습니다. 
+**한국마이크로소프트(케이트윈타워 A동 13층)**
+행사가 열릴 장소인 한국마이크로소프트는, 광화문역 근처에 있는 케이트윈타워 A동 13층에 위치해 있으며. 총 110명의 인원을 수용 가능한 회의실 및 등록 데스크, 참가자간 네트워킹 공간, 부스 운영, 케이터링도 가능한 라운지 공간도 구비되어 있습니다. 또한 회의실에는 자동 파티션이 있어, 키노트 진행시에는 모두 개방하여 하나의 회의실로 활용하고, 이후에는 파티션을 설치하여 강연과 워크샵 프로그램을 동시에 운영하는 등 유연하게 활용할 수 있습니다. 
 
 
 ## 시간표(초안)
@@ -166,7 +166,7 @@ Ubuntu Japan, Ubuntu Taiwan, Ubuntu Malaysia, Ubuntu Indonesia, Debian Japan, Ub
 
 ### 2025년 UbuCon Korea 참가자 직무 분포
 <pre class="mermaid mermaid-100h">
-%%{init: {'theme': 'base', 'themeVariables': { 'pieLegendTextSize': '11px', 'fontFamily': 'Ubuntu'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'pieLegendTextSize': '11px', 'fontFamily': 'Ubuntu Sans' }}}%%
 pie showData
     "Software Engineer" : 67
     "Infrastructure": 29
@@ -186,7 +186,7 @@ pie showData
 ---
 ### 소프트웨어 엔지니어 직군 세부 직무 분포
 <pre class="mermaid mermaid-100h" style="height:43%">
-%%{init: {'theme': 'base', 'themeVariables': { 'pieLegendTextSize': '11px', 'fontFamily': 'Ubuntu'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'pieLegendTextSize': '11px', 'fontFamily': 'Ubuntu Sans' }}}%%
 pie showData
     "Web Backend" : 18
     "Web Frontend" : 7
@@ -198,7 +198,7 @@ pie showData
 </pre>
 ### IT 인프라 엔지니어 직군 세부 직무 분포
 <pre class="mermaid mermaid-100h" style="height:43%">
-%%{init: {'theme': 'base', 'themeVariables': { 'pieLegendTextSize': '11px', 'fontFamily': 'Ubuntu'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'pieLegendTextSize': '11px', 'fontFamily': 'Ubuntu Sans' }}}%%
 pie showData
     "Cloud Engineer": 8
     "DevOps Engineer": 16 
@@ -352,11 +352,7 @@ pie showData
 ## 증정품 지급
 희망하시는 경우, 참가자를 대상으로 후원사의 증정품(스티커, 티셔츠, 에코백, 머그컵등의 굿즈)를 지급하실 수 있습니다. 추첨용으로 소량만 전달도 가능하고, 참가자 전원 지급 가능한 수량을 전달 해 주실수도 있습니다. 전달 방법에 대해서는 별도로 안내 해 드립니다.
 
-<div style="display: flex; flex-direction: row;  height: 280px; ">
-  <img src="./assets/marketing.png" style="flex: 1">
-  <img src="./assets/swag.jpeg" style="flex: 1">
-</div>
-
+<img src="./assets/swag.jpeg" style="margin-left: -40px; margin-bottom: -50px; width: 210mm; height: 500px; object-fit: cover;">
 
 ---
 # 후원사 등록 절차 안내
@@ -409,4 +405,4 @@ https://2026.ubuntu-kr.org
 <img src="./assets/uck25people.jpg" style="margin-left: -40px; margin-bottom: -50px; width: 210mm; height: 300px; object-fit: cover;">
 
 <!-- _paginate: skip -->
-<!-- footer: false -->
+<!-- footer: "" -->

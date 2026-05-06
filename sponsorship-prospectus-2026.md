@@ -57,7 +57,7 @@ Microsoft Korea (13F)
 <!-- header: ![w:50](./assets/logo.svg) ![w:40](./assets/minidc-kr.svg) -->
 <!-- footer: https://2026.ubuntu-kr.org | sponsorship@ubuntu-kr.org -->
 
-<img src="./assets/group_photo.jpg" style="margin-left: -40px; margin-top: -40px;  width: 210mm; height: 300px; object-fit: cover;">
+<img src="./assets/group_photo.jpg" style="margin-left: -40px; margin-top: -40px;  width: 210mm; height: 280px; object-fit: cover;">
 
 # About Ubuntu & UbuCon Korea
 
@@ -74,7 +74,7 @@ Microsoft Korea (13F)
 
 - **Name:** UbuCon Korea X MiniDebConf Korea 2026
 - **Date:** August 29, 2026
-- **Venue:** Microsoft Korea (The K Twin Tower - Building A 13F), planned
+- **Venue:** Microsoft Korea (K Twin Tower - Building A 13F), planned
 - **Scale:** 150+ participants (Including speakers and staff)
 - **Host:** Ubuntu Korea Community, Debian Korea
 - **Tickets**
@@ -116,9 +116,9 @@ We continue to interact with various overseas Ubuntu and open source communities
 </div>
 
 ## The venue
-**Microsoft Korea (The K Twin Tower - Building A 13F)**
+**Microsoft Korea (K Twin Tower - Building A 13F)**
 
-Microsoft Korea is located on the 13th floor of Building A of The K Twin Tower, near Gwanghwamun Station. It has a conference room with a total capacity of 110 people, a registration desk, and a lounge area that can be used for networking, booths, and catering. The conference room has automatic partitions, so it can be used as a single room for the keynote, and then partitioned off to run the talks and workshop programs simultaneously.
+Microsoft Korea is located on the 13th floor of Building A of K Twin Tower, near Gwanghwamun Station. It has a conference room with a total capacity of 110 people, a registration desk, and a lounge area that can be used for networking, booths, and catering. The conference room has automatic partitions, so it can be used as a single room for the keynote, and then partitioned off to run the talks and workshop programs simultaneously.
 
 ## Proposed timetable
 
@@ -167,7 +167,7 @@ Microsoft Korea is located on the 13th floor of Building A of The K Twin Tower, 
 
 ### Participants by profession (2025)
 <pre class="mermaid mermaid-100h">
-%%{init: {'theme': 'base', 'themeVariables': { 'pieLegendTextSize': '11px', 'fontFamily': 'Ubuntu'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'pieLegendTextSize': '11px', 'fontFamily': 'Ubuntu Sans'}}}%%
 pie showData
     "Software Engineer" : 67
     "Infrastructure": 29
@@ -187,7 +187,7 @@ pie showData
 ---
 ### Demographics breakdown - Software Engineers
 <pre class="mermaid mermaid-100h" style="height:43%">
-%%{init: {'theme': 'base', 'themeVariables': { 'pieLegendTextSize': '11px', 'fontFamily': 'Ubuntu'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'pieLegendTextSize': '11px', 'fontFamily': 'Ubuntu Sans'}}}%%
 pie showData
     "Web Backend" : 18
     "Web Frontend" : 7
@@ -199,7 +199,7 @@ pie showData
 </pre>
 ### Demographics breakdown - IT Infra & Operations
 <pre class="mermaid mermaid-100h" style="height:43%">
-%%{init: {'theme': 'base', 'themeVariables': { 'pieLegendTextSize': '11px', 'fontFamily': 'Ubuntu'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'pieLegendTextSize': '11px', 'fontFamily': 'Ubuntu Sans'}}}%%
 pie showData
     "Cloud Engineer": 8
     "DevOps Engineer": 16 
@@ -354,11 +354,7 @@ Sponsor booths at the event are a great way to showcase your organization and en
 ## Swag giveaway
 If you'd like, you can give out sponsor swag (stickers, t-shirts, eco-bags, mugs, etc.) to participants. You can send a small amount for a raffle, or you can send enough for all participants. We'll let you know how to do this separately.
 
-<div style="display: flex; flex-direction: row;  height: 280px; ">
-  <img src="./assets/marketing.png" style="flex: 1">
-  <img src="./assets/swag.jpeg" style="flex: 1">
-</div>
-
+<img src="./assets/swag.jpeg" style="margin-left: -40px; margin-bottom: -50px; width: 210mm; height: 330px; object-fit: cover;">
 
 ---
 # How to become a sponsor
@@ -411,4 +407,4 @@ https://2026.ubuntu-kr.org
 <img src="./assets/uck25people.jpg" style="margin-left: -40px; margin-bottom: -50px; width: 210mm; height: 300px; object-fit: cover;">
 
 <!-- _paginate: skip -->
-<!-- footer: false -->
+<!-- footer: "" -->
